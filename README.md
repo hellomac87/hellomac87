@@ -1,6 +1,8 @@
-
+<div alugn=center> 
+  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhellomac87)](https://hits.seeyoufarm.com)
-
+  
+</div>
 
 ```js
 const dobby = {
@@ -13,6 +15,10 @@ const dobby = {
 ```
   
   
-### Front-end Developer
+### It's me
 
-소중한 프론트엔드 개발자
+- a team player
+
+- flexible communication
+
+## interesting
