@@ -7,7 +7,8 @@ const dobby = {
   name: '이강산',
   age: 36,
   stack: ['Javascript', 'Typescript', 'Html5', 'CSS', 'NodeJS']
-  tools: ['React', 'NextJS']
+  tools: ['React', 'NextJS'],
+  interest: ['design-system', 'architecture', 'test-driven']
 }
 ```
   
