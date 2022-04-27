@@ -4,15 +4,7 @@
   
 </div>
 
-```js
-const dobby = {
-  name: '이강산',
-  age: 36,
-  stack: ['javascript', 'typescript', 'html5', 'css']
-  tools: ['react', 'nextjs'],
-  interest: ['back-end','node-js','design-system', 'architecture', 'test-driven']
-}
-```
+### Front End Developer
   
   
 ### It's me
