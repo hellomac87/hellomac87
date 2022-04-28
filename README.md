@@ -6,7 +6,8 @@
 
 ### Front End Developer
   
-  
+4년차 주니어 fe 개발자, 지금은 취준생
+
 ### It's me
 
 - a team player
