@@ -8,8 +8,6 @@
   
 🖥 4 years junior front-end developer
 
-🐝 looking for a job 
-
 🤔 i'm looking for a good company and team.
 
 👍 i'm a team player
@@ -18,7 +16,7 @@
 
 🤖 interested in improving the development environment
 
-👽 interested in ux/ui
+🐝 interested in ux/ui
 
 ---
 
